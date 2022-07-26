@@ -11,7 +11,7 @@ app.use(bodyparser.json());
 
 router(app);
 
-app.listen(786,()=>{
+app.listen(7000,()=>{
 
-    console.log("running at allah rakha port");
+    console.log("running at 7000 portal");
 });
